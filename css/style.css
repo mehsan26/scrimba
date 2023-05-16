@@ -1,0 +1,26 @@
+#header {
+    color: blanchedalmond;
+    background: #4a4a4a;
+    text-align: center;
+    margin: 0px 0px 25px 0px;
+    padding-top:25px;
+    padding-bottom: 25px;
+}
+.main {
+    background-color: greenyellow;
+    padding:25px;
+    width: 600px;
+    border: solid red 5px;
+    
+}
+.main img {
+    width: 600px;
+}
+.footer {
+    color: blanchedalmond;
+    background-color: #4a4a4a;
+    text-align: center;
+    margin: 25px 0px 0px 0px;
+    padding-top:25px;
+    padding-bottom: 25px;
+}
